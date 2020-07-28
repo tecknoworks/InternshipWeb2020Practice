@@ -1,3 +1,4 @@
+const TEST_VALUE = "My Test"
 const getTest() {
-    return "My Test"
+    return TEST_VALUE
 }

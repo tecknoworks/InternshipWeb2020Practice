@@ -1,4 +1,5 @@
 # InternshipWeb2020Practice
 
 App developers:
-- Andi
+- Andonis Gaja
+- George Sava
