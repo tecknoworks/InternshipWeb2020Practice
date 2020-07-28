@@ -1,4 +1,5 @@
 # InternshipWeb2020Practice
 
-App developers:
-- Andi
+App Developers: 
+- Andonis Gaja
+- Ciulei Cezae
