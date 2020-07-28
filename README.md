@@ -1,3 +1,4 @@
 # InternshipWeb2020Practice
 
-Developers:
+App developers:
+- Andi
