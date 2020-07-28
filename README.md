@@ -1,3 +1,7 @@
 # InternshipWeb2020Practice
 
-Developer:
+App Developers: 
+- Andonis Gaja
+- George Sava
+- Ciulei Cezar
+- Oana Plopeanu
