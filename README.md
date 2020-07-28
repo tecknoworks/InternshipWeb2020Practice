@@ -2,3 +2,4 @@
 
 App developers:
 - Andi
+- Oana Plopeanu
