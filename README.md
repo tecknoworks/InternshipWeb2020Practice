@@ -1,3 +1,3 @@
 # InternshipWeb2020Practice
 
-Developers:
+Developer:
