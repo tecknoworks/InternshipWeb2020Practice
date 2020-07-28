@@ -2,4 +2,5 @@
 
 App Developers: 
 - Andonis Gaja
-- Ciulei Cezae
+- George Sava
+- Ciulei Cezar
