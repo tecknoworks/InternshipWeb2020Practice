@@ -1,3 +1,4 @@
+const TEST_VALUE "Pass the test"
 const getTest() {
-    return "My Test"
+    return TEST_VALUE
 }
